@@ -9,10 +9,10 @@ import themeConfig from "./theme";
 
 // noinspection JSUnusedGlobalSymbols
 export default defineConfig({
-  base: "/mac-tutorial/", // 设置站点子路径
+  // base: "/mac-tutorial/", // 设置站点子路径
   cleanUrls: true, // 是否去掉 .html 后缀
   sitemap: {
-    hostname: "https://lightyourjourney.github.io/mac-tutorial/",
+    hostname: "https://mac.yanjinli.fun/",
   },
   description,
   head,

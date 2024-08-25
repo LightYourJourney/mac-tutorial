@@ -1,6 +1,6 @@
 <!--suppress HtmlDeprecatedAttribute -->
 <p align="center">
-  <a href="https://lightyourjourney.github.io/mac-tutorial/">
+  <a href="https://mac.yanjinli.fun/">
     <img alt="logo" src="./docs/public/images/og.png"/>
   </a>
 </p>
@@ -78,7 +78,7 @@ English | [简体中文](./README.zh-CN.md)
 
 ## Online Reading
 
-This project is hosted on GitHub Pages and can be read online at [https://lightyourjourney.github.io/mac-tutorial/](https://lightyourjourney.github.io/mac-tutorial/).
+This project is hosted on GitHub Pages and can be read online at [https://mac.yanjinli.fun/](https://mac.yanjinli.fun/).
 
 ## Local Deployment
 
