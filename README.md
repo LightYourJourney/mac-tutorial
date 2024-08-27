@@ -1,7 +1,7 @@
 <!--suppress HtmlDeprecatedAttribute -->
 <p align="center">
   <a href="https://mac.yanjinli.fun/">
-    <img alt="logo" src="./docs/public/images/og.png"/>
+    <img alt="logo" src="./docs/public/images/og.svg"/>
   </a>
 </p>
 
@@ -102,7 +102,7 @@ yarn docs:dev
 
 ## Repo Status
 
-![Repo Status](https://repobeats.axiom.co/api/embed/b46607cbf46aa1eaa4c1eec1f758e8b3fda11798.svg)
+![Repo Status](https://repobeats.axiom.co/api/embed/8e7c932f645b8ec1f80e6b5e562bea6087f233e0.svg)
 
 ## Contributing
 
@@ -118,8 +118,6 @@ The documentation is availably free under the [Creative Commons BY-SA 4.0](https
   <img src="https://contrib.rocks/image?repo=LightYourJourney/mac-tutorial" alt="contributors"/>
 </a>
 
-<!--
 ## Stargazers over time
 
 [![Stargazers over time](https://starchart.cc/LightYourJourney/mac-tutorial.svg?variant=adaptive)](https://starchart.cc/LightYourJourney/mac-tutorial)
--->

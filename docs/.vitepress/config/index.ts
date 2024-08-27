@@ -28,11 +28,11 @@ export default defineConfig({
     },
     // 全局设置容器自定义标题
     container: {
-      tipLabel: "提示",
-      warningLabel: "警告",
-      dangerLabel: "危险",
-      infoLabel: "信息",
-      detailsLabel: "详细信息",
+      tipLabel: "TIP",
+      warningLabel: "WARNING",
+      dangerLabel: "DANGER",
+      infoLabel: "INFO",
+      detailsLabel: "DETAILS",
     },
   },
   themeConfig,

@@ -65,7 +65,7 @@ const facebook: HeadConfig[] = [
     "meta",
     {
       property: "og:image",
-      content: `${URL}/images/og.png`,
+      content: `${URL}/images/og.svg`,
     },
   ],
 ];
@@ -109,12 +109,12 @@ const twitter: HeadConfig[] = [
     "meta",
     {
       property: "twitter:image",
-      content: `${URL}/images/og.png`,
+      content: `${URL}/images/og.svg`,
     },
   ],
 ];
 const headConfig: HeadConfig[] = [
-  ["link", { rel: "icon", href: "/favicon.ico" }],
+  ["link", { rel: "icon", href: "/favicon.svg" }],
   ...script,
   ...meta,
   ...facebook,
