@@ -40,7 +40,7 @@ yarn docs:dev
 
 ## 版权说明
 
-文档以 [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) 协议发布。详情请见 [LICENSE](./LICENSE)。
+文档以 [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) 协议发布。详情请见 [LICENSE](https://github.com/LightYourJourney/mac-tutorial/blob/main/LICENSE)。
 
 ## 贡献者
 
